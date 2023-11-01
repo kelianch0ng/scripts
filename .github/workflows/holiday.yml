@@ -24,4 +24,4 @@ jobs:
           git commit -m "Update holiday value"
           git push
         env:
-          GITHUB_TOKEN: ${{ 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 }}
+          GITHUB_TOKEN: ${{ secrets.holiday }}
