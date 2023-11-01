@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 'Checkout codes'
-        uses: kelianch0ng/scripts@v1
+        uses: kelianch0ng/scripts
       - name: 'Push Value to Repository'
         run: |
           # 获取 ./holiday.sh 的输出值并保存到变量中
