@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 'Checkout codes'
-        uses: kelianch0ng/scripts@v1.0
+        uses: kelianch0ng/scripts@main
       - name: 'Push Value to Repository'
         run: |
           # 获取 ./holiday.sh 的输出值并保存到变量中
@@ -25,4 +25,4 @@ jobs:
           git commit -m "Update holiday value"
           git push
         env:
-          GITHUB_TOKEN: ${{ secrets.holiday }}
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
