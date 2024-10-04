@@ -1,1 +1,1 @@
-{"code":0,"type":{"type":2,"name":"国庆节","week":5},"holiday":{"holiday":true,"name":"国庆节","wage":2,"date":"2024-10-04","rest":1}}
+{"code":0,"type":{"type":2,"name":"国庆节","week":6},"holiday":{"holiday":true,"name":"国庆节","wage":2,"date":"2024-10-05","rest":1}}
