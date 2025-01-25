@@ -1,1 +1,1 @@
-{"code":0,"type":{"type":1,"name":"周六","week":6},"holiday":null}
+{"code":0,"type":{"type":3,"name":"春节前补班","week":7},"holiday":{"holiday":false,"name":"春节前补班","wage":1,"after":false,"target":"春节","date":"2025-01-26","rest":1}}
