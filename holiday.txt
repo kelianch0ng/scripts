@@ -1,1 +1,1 @@
-{"code":0,"type":{"type":3,"name":"国庆节后补班","week":6},"holiday":{"holiday":false,"after":true,"wage":1,"name":"国庆节后补班","target":"国庆节","date":"2025-10-11"}}
+{"code":0,"type":{"type":1,"name":"周日","week":7},"holiday":null}
