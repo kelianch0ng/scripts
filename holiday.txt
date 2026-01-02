@@ -1,1 +1,1 @@
-{"code":0,"type":{"type":2,"name":"元旦","week":5},"holiday":{"holiday":true,"name":"元旦","wage":2,"date":"2026-01-02","rest":1}}
+{"code":0,"type":{"type":2,"name":"元旦","week":6},"holiday":{"holiday":true,"name":"元旦","wage":2,"date":"2026-01-03","rest":1}}
