@@ -1,1 +1,1 @@
-{"code":0,"type":{"type":3,"name":"劳动节后补班","week":6},"holiday":{"holiday":false,"name":"劳动节后补班","wage":1,"after":true,"target":"劳动节","date":"2026-05-09","rest":1}}
+{"code":0,"type":{"type":1,"name":"周日","week":7},"holiday":null}
